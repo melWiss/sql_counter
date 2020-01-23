@@ -1,6 +1,6 @@
 # sql_counter
 
-A Flutter example project on how you can use sqflite CRUD operations with flutter app.
+A Flutter example project on how you can use sqflite CRUD operations inside flutter app.
 
 ## Getting Started
 
